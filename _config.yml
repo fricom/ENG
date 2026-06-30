@@ -1,0 +1,19 @@
+title: 글로벌 UI.UX 디자이너 영어 바이블
+description: 나만의 영어 공부 책 시리즈 — 기초부터 해외 취업까지
+remote_theme: just-the-docs/just-the-docs
+
+url: https://fricom.github.io
+baseurl: /ENG
+
+color_scheme: light
+
+# 한글 폰트 지원
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+just_the_docs:
+  collections:
+    docs:
+      name: 목차
+      nav_fold: false
