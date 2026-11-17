@@ -6,17 +6,11 @@ nav_order: 2
 
 # Part 2 — 핵심 단어: UI/UX 디자이너 필수 어휘
 
-> 단어 리스트 100개 외워봤자 입에서 안 나온다. 실무 문장 속에서 익혀야 쓸 수 있다.
-
 ---
 
 ## Chapter 5. 디자인 용어 영어로 말하기
 
-디자인 리뷰에서 "이 부분이 좀... 어떻게 말하지..." 하다가 타이밍 놓친 적 있지? 아래 용어들을 **문장째로** 익혀라. 용어만 외우면 막상 입에서 안 나온다.
-
----
-
-### 📌 레이아웃 & 구조 — 이걸 모르면 리뷰를 못 한다
+### 📌 레이아웃 & 구조
 
 | 용어 | 바로 쓰는 문장 |
 |------|--------------|
@@ -29,11 +23,9 @@ nav_order: 2
 | **grid** | Everything should snap to the **grid** for consistency. |
 | **breakpoint** | This layout breaks at the tablet **breakpoint**. |
 
-💡 **가장 많이 쓰는 3개:** hierarchy, spacing, alignment. 이 3개만 자연스럽게 나와도 리뷰가 달라진다.
-
 ---
 
-### 📌 타이포그래피 — 개발자한테 스펙 전달할 때 필수
+### 📌 타이포그래피 — 개발자에게 스펙 전달하기
 
 | 용어 | 바로 쓰는 문장 |
 |------|--------------|
@@ -45,7 +37,7 @@ nav_order: 2
 | **legibility** | This font lacks **legibility** at small sizes. |
 | **truncation** | Handle **truncation** gracefully with an ellipsis. |
 
-⚠️ **readability vs legibility 헷갈리지 마라:**
+**readability와 legibility의 차이:**
 - **readability** = 글 전체를 편하게 읽을 수 있는가 (줄 간격, 컬럼 너비 등)
 - **legibility** = 글자 자체를 식별할 수 있는가 (폰트 선택, 크기)
 
@@ -78,7 +70,7 @@ nav_order: 2
 
 ---
 
-### 📌 UX 프로세스 용어 — 미팅에서 자연스럽게 써라
+### 📌 UX 프로세스 용어
 
 | 용어 | 바로 쓰는 문장 |
 |------|--------------|
@@ -95,7 +87,7 @@ nav_order: 2
 
 ---
 
-### ✏️ 바로 써봐 — 빈칸 채우기
+### ✏️ 연습 — 빈칸 채우기
 
 1. 이 버튼은 클릭할 수 있게 생기지 않았어. → "This button lacks visual ______." `affordance`
 2. 여백을 더 줘서 숨통 좀 틔우자. → "More ______ will make this feel less overwhelming." `whitespace`
@@ -106,7 +98,7 @@ nav_order: 2
 
 ## Chapter 6. 비즈니스 필수 동사 100개
 
-**단어 뜻만 외우면 소용없다.** 실무 문장으로 같이 외워라. 100개를 5개 카테고리로 쪼개서, 각 카테고리를 한 번에 20개씩 공략한다.
+업무 동사 100개를 용도에 따라 다섯 범주로 나누고 예문을 함께 제시한다.
 
 ---
 
@@ -134,8 +126,6 @@ nav_order: 2
 | **update** | 알리다 | **Update** the team on any progress by EOD. |
 | **walk through** | 설명하며 보여주다 | Let me **walk you through** the new flow. |
 | **communicate** | 전달하다 | **Communicate** any blockers as soon as possible. |
-
-💡 **제일 많이 쓰는 TOP 5:** align, follow up, loop in, sync, walk through
 
 ---
 
@@ -191,9 +181,8 @@ nav_order: 2
 | **validate** | 검증하다 | Let's **validate** this with users before shipping. |
 | **question** | 의문 제기하다 | I want to **question** whether this is the right approach. |
 
-⚠️ **주의: `push back`은 부드럽게 반대하는 거다**
+**용법: `push back`은 이견이나 반대를 제기한다는 뜻이다. 표현 자체가 정중함을 보장하지는 않는다.**
 > "I need to push back on this direction." = "이 방향에 대해 반대 의견이 있어요."
-> 직접 "No"라고 하는 것보다 훨씬 프로답게 들린다.
 
 ---
 
@@ -253,11 +242,11 @@ nav_order: 2
 
 ## Chapter 7. 뉘앙스를 바꾸는 형용사/부사
 
-같은 피드백도 어떤 단어를 쓰느냐에 따라 받아들이는 사람의 반응이 완전히 달라진다. 이걸 모르면 의도치 않게 강하게 들리거나, 반대로 너무 흐릿하게 들린다.
+형용사와 부사는 피드백의 구체성과 강도를 조절한다.
 
 ---
 
-### 📌 디자인 칭찬할 때 — 이 단어들로 구체적으로 칭찬해라
+### 📌 디자인의 장점을 설명하는 형용사
 
 | 형용사 | 뜻 | 예문 |
 |--------|-----|------|
@@ -285,9 +274,9 @@ nav_order: 2
 
 ---
 
-### ⚡ 이게 핵심 — 부사로 강도 조절하기
+### ⚡ 부사로 강도 조절하기
 
-같은 지적도 부사 하나로 온도가 달라진다:
+부사에 따른 피드백 강도의 차이:
 
 | 표현 | 강도 | 느낌 |
 |------|------|------|
@@ -295,11 +284,11 @@ nav_order: 2
 | "This **significantly** affects usability." | 🔥🔥🔥🔥 | 객관적, 데이터 근거 |
 | "This is **fairly** confusing." | 🔥🔥🔥 | 중립적 |
 | "This is **slightly** off — worth revisiting." | 🔥🔥 | 부드럽고 열린 태도 |
-| "This **might** be **a bit** confusing." | 🔥 | 가장 조심스러운 제안 |
+| "This **might** be **a bit** confusing." | 🔥 | 가능성을 열어 둔 제안 |
 
 ---
 
-### 📌 자주 쓰는 부사 — 상황별로 골라 써라
+### 📌 상황별 부사
 
 **강도 조절**
 
@@ -325,7 +314,7 @@ nav_order: 2
 
 ---
 
-### ✏️ 바로 써봐 — 부드럽게 바꾸기 연습
+### ✏️ 연습 — 부드럽게 바꾸기
 
 너무 직접적인 말을 부드럽게 바꿔봐:
 
@@ -335,5 +324,3 @@ nav_order: 2
 4. "I don't like this direction." → `Personally, I feel like this direction might not resonate with users.`
 
 ---
-
-*Part 2 완료 ✅ — Chapter 5 디자인 용어 / Chapter 6 비즈니스 동사 100개 / Chapter 7 형용사·부사*

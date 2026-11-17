@@ -6,15 +6,9 @@ nav_order: 4
 
 # Part 4 — 업무 필수 표현 & 스몰토크
 
-> 언어 실력보다 관계가 먼저다. 스몰토크 하나가 팀의 분위기를 바꾸고, 회의 표현 하나가 당신을 프로답게 만든다.
-
 ---
 
 ## Chapter 11. 스몰토크 100문장 — 처음 만난 동료와 자연스럽게 대화하기
-
-스몰토크가 어색한 이유? **준비가 없어서다.** 아래 100문장을 상황별로 익혀두면, 어떤 자리에서도 자연스럽게 대화를 시작할 수 있다.
-
----
 
 ### 📌 인사 & 첫 만남 (20문장)
 
@@ -43,8 +37,6 @@ nav_order: 4
 | 19 | I mainly work on the mobile side of things. | 내 역할 소개할 때 |
 | 20 | I'm still getting up to speed on the project. | 온보딩 중일 때 |
 
-💡 **`#2 Nice to finally put a face to the name!`** 이거 하나 외워두면 첫 만남이 확 달라진다. 원어민들 정말 자주 쓴다.
-
 ---
 
 ### 📌 일상 & 근황 (20문장)
@@ -53,7 +45,7 @@ nav_order: 4
 
 | # | 표현 | 상황 |
 |---|------|------|
-| 21 | How's your week going? | 가장 무난한 근황 인사 |
+| 21 | How's your week going? | 근황 인사 |
 | 22 | How was your weekend? | 월요일 아침 |
 | 23 | Did you do anything fun over the weekend? | 주말 물을 때 |
 | 24 | How are you holding up? | 바쁜 시기에 안부 물을 때 |
@@ -107,8 +99,6 @@ nav_order: 4
 
 ### 📌 칭찬 & 감사 (20문장)
 
-> 칭찬은 관계를 만든다. 구체적으로 칭찬하면 더 진심으로 들린다.
-
 | # | 표현 | 상황 |
 |---|------|------|
 | 61 | Your presentation was really impressive. | 발표 칭찬 |
@@ -132,7 +122,7 @@ nav_order: 4
 | 79 | Your attention to accessibility really shows. | 접근성 칭찬 |
 | 80 | You handled that tough feedback really gracefully. | 피드백 수용 방식 칭찬 |
 
-💡 **칭찬 공식:** "I love / I appreciate / Thanks for + 구체적인 행동" 이 패턴만 기억해라.
+**감사 표현:** I appreciate + 명사/동명사, Thanks for + 명사/동명사로 감사할 행동을 구체적으로 말한다. I love는 마음에 드는 대상이나 행동을 말할 때 쓴다.
 
 ---
 
@@ -167,24 +157,26 @@ nav_order: 4
 
 ## Chapter 12. 회의 시작/진행/마무리 필수 표현
 
-회의에서 아무 말 못 하고 나오는 이유? **타이밍을 모르기 때문이다.** 언제 어떤 표현을 쓰는지만 알면 된다.
-
----
-
 ### 📌 회의 시작
 
 **참여 확인 & 오프닝**
 
 > "Let's get started — I think everyone's here."
+>
 > "We'll give it another minute for people to join."
+>
 > "Can everyone hear me okay?" / "Can you see my screen?"
+>
 > "Quick heads-up — this call is being recorded."
 
 **아젠다 공유**
 
 > "Today's agenda has three items — I'll share the doc in chat."
+>
 > "We have 30 minutes, so let's be focused."
+>
 > "The goal of today's meeting is to align on the direction."
+>
 > "I'll leave 10 minutes at the end for questions."
 
 ---
@@ -194,24 +186,35 @@ nav_order: 4
 **의견 요청**
 
 > "What does everyone think?"
+>
 > "[이름], what's your take on this?"
+>
 > "Does anyone have a different perspective?"
+>
 > "Are there any concerns I haven't addressed?"
+>
 > "Is everyone on the same page?"
 
 **흐름 유지**
 
 > "Let's table that for now and come back to it."
+>
 > "I want to make sure we stay on track."
+>
 > "Let's put that in the parking lot." *(중요하지만 지금 아닌 주제)*
+>
 > "We're running a bit short on time — let's keep moving."
+>
 > "Can we take this offline?"
 
 **결정 & 합의**
 
 > "Are we all aligned on this?"
+>
 > "Can we make a decision on this today?"
+>
 > "Let's go with option B — does anyone object?"
+>
 > "Who will own this?" *(담당자 지정)*
 
 ---
@@ -221,37 +224,43 @@ nav_order: 4
 **요약 & 액션 아이템**
 
 > "Let me quickly recap what we decided today."
+>
 > "So the next steps are..."
+>
 > "[이름] will take care of X by [날짜]."
+>
 > "I'll send a follow-up with the action items."
+>
 > "Is there anything we missed?"
 
 **마무리 인사**
 
 > "Thanks everyone — great discussion today!"
+>
 > "Really productive — appreciate everyone's input."
+>
 > "Good session — talk soon!"
 
 ---
 
 ## Chapter 13. 의견 말하기, 동의/반대하기, 제안하기
 
-이게 안 되면 회의에 있어도 없는 거다. **이 패턴들만 입에 익혀도 회의가 달라진다.**
-
----
-
 ### 📌 의견 말하기
 
 **확신 있을 때 — 자신 있게**
 
 > "I think we should go with option A."
+>
 > "I strongly believe this is the right direction."
+>
 > "In my opinion, the second option is stronger."
 
 **확신 없을 때 — 조심스럽게**
 
 > "I might be wrong, but I feel like..."
+>
 > "I'm not 100% sure, but my instinct says..."
+>
 > "I'm on the fence about this, to be honest."
 
 ---
@@ -261,21 +270,26 @@ nav_order: 4
 **완전 동의**
 
 > "Exactly." / "Absolutely." / "Couldn't agree more."
+>
 > "That's a great point."
+>
 > "That's exactly what I was thinking."
 
-**부분 동의 — 이게 더 많이 쓰인다**
+**부분 동의**
 
 > "I agree with you on that, and I'd also add..."
+>
 > "That makes sense — though I wonder if..."
+>
 > "I see your point, and I think that's largely true, but..."
 
 ---
 
 ### 📌 반대하기 — 관계 유지하면서
 
-> ❌ "That's wrong." → 절대 쓰지 마라
-> ✅ "I see it a bit differently." → 프로답게 반대하는 법
+> "That's wrong." — 직접적인 반박. 동료의 의견에 반대할 때는 이유와 대안을 함께 말한다.
+>
+> "I see it a bit differently." — 관점의 차이를 제시하는 표현.
 
 | 상황 | 표현 |
 |------|------|
@@ -292,43 +306,51 @@ nav_order: 4
 **아이디어 던질 때**
 
 > "What if we tried...?"
+>
 > "Have you considered...?"
+>
 > "One option could be to..."
+>
 > "What about doing X instead?"
 
 **제안 강화하기**
 
 > "I think this would solve the problem because..."
+>
 > "This approach has worked well in similar situations."
+>
 > "Users would benefit from this because..."
 
 ---
 
 ## Chapter 14. 회의 유형별 표현 — 1:1 싱크, 킥오프, 회고
 
-같은 회의도 **종류에 따라 분위기와 언어가 다르다.** 미리 알고 가면 훨씬 편하다.
-
----
-
 ### 📌 1:1 싱크 (One-on-One) — 매니저나 동료와 정기 미팅
 
 **시작**
 
 > "How are you doing this week? Anything urgent?"
+>
 > "I have a few things to cover — is there anything on your end first?"
 
 **진행 중**
 
 > "I'm currently working on X, and I'm a bit blocked on Y."
+>
 > "I wanted to flag a concern I've been thinking about."
+>
 > "I'd love your feedback on how I handled this."
+>
 > "Is there anything you think I should be doing differently?"
+>
 > "I'm feeling a bit overwhelmed with the current workload." *(솔직하게 말해도 된다)*
+>
 > "I've been thinking about taking on more responsibility." *(성장 의지 표현)*
 
 **마무리**
 
 > "This was really helpful — thanks for the clarity."
+>
 > "I'll follow up on those action items by Friday."
 
 ---
@@ -338,21 +360,29 @@ nav_order: 4
 **프로젝트 소개**
 
 > "Let me give a quick overview of what we're building."
+>
 > "The problem we're solving is..."
+>
 > "Our target users are..."
+>
 > "Here's what's in scope and what's out of scope."
 
 **역할 & 일정**
 
 > "Design will own X, engineering will own Y."
+>
 > "Who will be the decision maker on the design side?"
+>
 > "The target launch date is..."
+>
 > "I'll have initial wireframes ready by next Wednesday."
+>
 > "Let's plan a check-in at the end of each sprint."
 
 **마무리**
 
 > "Any questions before we kick things off?"
+>
 > "Let's agree on how we'll communicate — Slack or email?"
 
 ---
@@ -362,37 +392,41 @@ nav_order: 4
 **시작 분위기 만들기**
 
 > "This is a safe space — please be honest."
+>
 > "There are no wrong answers here."
+>
 > "Let's start with what went well."
 
 **잘된 것 말할 때**
 
 > "The collaboration between design and dev was really smooth."
+>
 > "We shipped on time, which was a big win."
+>
 > "I think the team did a great job of communicating blockers early."
 
 **개선할 것 말할 때**
 
 > "I felt like the requirements weren't clear at the start."
+>
 > "I think we took on too much this sprint."
+>
 > "I'd love more time for design review before handoff."
+>
 > "The feedback loop between design and QA was a bit slow."
 
 **액션 아이템**
 
 > "Let's make sure we define acceptance criteria before designing."
+>
 > "Can we add a mid-sprint check-in going forward?"
+>
 > "I'll create a checklist for design handoff."
 
 **마무리**
 
 > "Thank you everyone for being so open and honest."
+>
 > "Let's carry this energy into the next sprint!"
 
 ---
-
-*Part 4 완료 ✅ — Chapter 11 스몰토크 100문장 / Chapter 12 회의 표현 / Chapter 13 의견·동의·반대·제안 / Chapter 14 1:1·킥오프·레트로*
-
----
-
-**🎉 1권 전체 완료 — Part 1 기초문법 / Part 2 핵심단어 / Part 3 스피킹 / Part 4 업무표현·스몰토크**
