@@ -1,7 +1,7 @@
 ---
-title: Part 1 — 기초 문법
-parent: 1권 — 영어의 뼈대 만들기
-nav_order: 1
+title: 참고 — 문법
+parent: 1권 — 생활과 업무에서 말하기
+nav_order: 13
 ---
 
 # Part 1 — 기초 문법: 말이 되는 문장 만들기

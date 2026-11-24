@@ -1,7 +1,7 @@
 ---
-title: Part 3 — 스피킹
-parent: 1권 — 영어의 뼈대 만들기
-nav_order: 3
+title: 참고 — 발음과 말하기
+parent: 1권 — 생활과 업무에서 말하기
+nav_order: 11
 ---
 
 # Part 3 — 스피킹: 발음·억양·발표

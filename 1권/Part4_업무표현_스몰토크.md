@@ -1,7 +1,7 @@
 ---
-title: Part 4 — 업무 필수 표현 & 스몰토크
-parent: 1권 — 영어의 뼈대 만들기
-nav_order: 4
+title: 참고 — 업무 표현
+parent: 1권 — 생활과 업무에서 말하기
+nav_order: 10
 ---
 
 # Part 4 — 업무 필수 표현 & 스몰토크

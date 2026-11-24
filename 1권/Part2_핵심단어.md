@@ -1,7 +1,7 @@
 ---
-title: Part 2 — 핵심 단어
-parent: 1권 — 영어의 뼈대 만들기
-nav_order: 2
+title: 참고 — 업무 어휘
+parent: 1권 — 생활과 업무에서 말하기
+nav_order: 12
 ---
 
 # Part 2 — 핵심 단어: UI/UX 디자이너 필수 어휘
